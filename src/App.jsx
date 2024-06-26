@@ -6,17 +6,15 @@ import Container from './component/container/container'
 function App() {
 
   return (
-
-    <Container>
-      <Paragraph>
-        <Button/>
-      </Paragraph>
+    <div>
+      <Container>
+        <Paragraph>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quos eos quae veniam possimus assumenda animi libero! Omnis quae ipsa ut, ad magnam officia voluptates ipsum soluta distinctio blanditiis itaque.
+        </Paragraph>
+        <Button />
       </Container >
-
-
-      
-
-      )
+    </div>
+  )
 }
 
-      export default App
+export default App
