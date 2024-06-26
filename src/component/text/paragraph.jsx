@@ -11,6 +11,6 @@ const Paragraph = ({children= 'children', color=' #6d6e6e', transform='uppercase
 
 }
 
-//({children= 'children', color='blue', transform='uppercase'}) cabaei pesquisando no chat gpt um erra que não saida do console, e em futuras verçoes do reac o suporte ao defaultProps sera removido 
+//({children= 'children', color='blue', transform='uppercase'}) cabaei pesquisando no chat gpt um erro que não saida do console, e em futuras verçoes do reac o suporte ao defaultProps sera removido 
 
 export default Paragraph
